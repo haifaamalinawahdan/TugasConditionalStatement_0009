@@ -30,3 +30,6 @@ int main()
     BMI = NilaiBMI(BB, TB);
     cout << "--- Hasil ---" <<endl;
     cout << "BMI Anda : " << BMI <<endl;
+    cout << "Status : " << Status_BMI(BMI) <<endl;
+   
+}
