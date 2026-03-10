@@ -15,3 +15,7 @@ string Status_BMI(float r)
     else
        return "Berat Badan Normal";
 }
+
+int main()
+{
+    float BB,TB,BMI;
