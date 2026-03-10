@@ -28,3 +28,5 @@ int main()
     cin  >> TB;
 
     BMI = NilaiBMI(BB, TB);
+    cout << "--- Hasil ---" <<endl;
+    cout << "BMI Anda : " << BMI <<endl;
