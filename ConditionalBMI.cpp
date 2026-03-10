@@ -26,3 +26,5 @@ int main()
     cin >> BB;
     cout << "Masukkan Tinggi Badan (meter) =" <<endl;
     cin  >> TB;
+
+    BMI = NilaiBMI(BB, TB);
