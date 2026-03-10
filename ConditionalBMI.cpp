@@ -19,3 +19,8 @@ string Status_BMI(float r)
 int main()
 {
     float BB,TB,BMI;
+    string status;
+
+    cout << "--- Selamat Datang Mahasiswa Kelas A 2025 ---" <<endl;
+    cout << "Masukkan Berat Badan (kg) = ";
+    cin >> BB;
