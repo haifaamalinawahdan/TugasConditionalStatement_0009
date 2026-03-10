@@ -24,3 +24,5 @@ int main()
     cout << "--- Selamat Datang Mahasiswa Kelas A 2025 ---" <<endl;
     cout << "Masukkan Berat Badan (kg) = ";
     cin >> BB;
+    cout << "Masukkan Tinggi Badan (meter) =" <<endl;
+    cin  >> TB;
